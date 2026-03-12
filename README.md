@@ -79,7 +79,7 @@ https://github.com/Safa-khanum/Slice-o-Clock-Pizza.git
 ### 2️⃣ Navigate to project folder
 
 ```bash
-cd slice-o-clock-deliveries
+cd Slice-o-Clock-Pizza
 ```
 
 ### 3️⃣ Install dependencies
