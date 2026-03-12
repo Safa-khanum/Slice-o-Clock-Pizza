@@ -73,7 +73,7 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Safakhanum/slice-o-clock-deliveries.git
+git clone https://github.com/Safa-khanum/slice-o-clock-deliveries.git
 ```
 
 ### 2️⃣ Navigate to project folder
