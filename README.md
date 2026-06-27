@@ -1,4 +1,4 @@
-# 🍕 Slice O'Clock Deliveries
+# 🍕 Slice O'Clock Pizza Delivery
 
 Slice O'Clock Deliveries is a modern pizza ordering web application built with React and TypeScript.
 The application allows users to explore a menu of pizzas, add items to their cart, and place orders through a clean and responsive interface.
